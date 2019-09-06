@@ -1,4 +1,4 @@
-const content = `[
+[
    {
       "symbol":"AAPL",
       "companyName":"Apple Inc.",
@@ -615,4 +615,4 @@ const content = `[
          "sharesOutstanding":290850938
       }
    }
-]`;
+]
